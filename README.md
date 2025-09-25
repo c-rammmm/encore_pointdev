@@ -10,7 +10,7 @@ Simply add the `encore_pointdev` folder to your resources folder and `start enco
 
 ## Usage
 
-Start PointDev using the `/pointdev` command. Once running, stand where you would like to collect a `vector3` coordinate and press `E`. You will see a confirmation chat message.
+Start PointDev using the `/pointdev` command. Once running, stand where you would like to collect a `vector3` coordinate and press `E` or `vector4` coordinates, press `G`. You will see a confirmation chat message.
 
 When you are done collecting points, use the `/pointdev` command again, and the list of coordinates you collected will be saved in the `files` folder of the resource.
 
